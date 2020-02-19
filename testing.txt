@@ -1,3 +1,3 @@
-This is to merge 
+
 Have the same text
-Haripriya 
+Haripriya Made changes to merge the conflicts
