@@ -1,0 +1,2 @@
+# Exercise
+Practicing git commands
